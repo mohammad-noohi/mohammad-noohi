@@ -42,6 +42,13 @@
     <img src="https://github.com/user-attachments/assets/20943511-bccf-46ef-ae7d-c899503dac01" alt="telegram" width="48px"/>
 </a>
 
+# My Github stat:
+
+<a href="https://t.me/noohi1998">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohammad-noohi&show_icons=true&theme=transparent" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-noohi&layout=donut-vertical" alt="" />
+</a>
+
 
 
 
