@@ -42,7 +42,7 @@
 
 <a href="https://t.me/noohi1998">
     <img src="https://github-readme-stats.vercel.app/api?username=mohammad-noohi&show_icons=true&theme=transparent" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-noohi&layout=donut-vertical&theme=transparent" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-noohi&theme=transparent"/>
 </a>
 
 
