@@ -30,31 +30,18 @@
     <img src="https://github.com/user-attachments/assets/b4607805-69b9-4ab3-96b0-0f03e4525f61" alt="whats app" width="48px">
 </a>
 
-
-
-
-
 <a href="https://t.me/noohi1998">
     <img src="https://github.com/user-attachments/assets/20943511-bccf-46ef-ae7d-c899503dac01" alt="telegram" width="48px"/>
 </a>
 
 # My Github stat:
 
-<a href="https://t.me/noohi1998">
+<a href="">
     <img src="https://github-readme-stats.vercel.app/api?username=mohammad-noohi&show_icons=true&theme=transparent" alt="" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-noohi&theme=transparent"/>
 </a>
 
-
-
-
-
 <!-- 
-
-
-
-
-
 ![Material](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 -->
