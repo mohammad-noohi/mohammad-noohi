@@ -50,7 +50,8 @@
 
 click on each link to see the project online 
 
-1. [kasuka project](https://kasuka-project.liara.run/)
+1. [Kasuka Project](https://kasuka-project.liara.run/)
+2. [Coffe Shop Project](https://subtle-nougat-b8ddb2.netlify.app/)
 
 
 
