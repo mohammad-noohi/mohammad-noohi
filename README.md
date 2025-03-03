@@ -46,6 +46,12 @@
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 -->
 
+# My Projects link :
+
+click on each link to see the project online 
+
+1. [kasuka project](https://kasuka-project.liara.run/)
+
 
 
 
