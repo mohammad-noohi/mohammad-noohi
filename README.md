@@ -55,7 +55,7 @@ click on each link to see the project online
 3. [Delivery Food Project](https://delivery-food-project.netlify.app/)
 4. [Portfolio Landing Project](https://porfolio-landing-project.netlify.app/)
 5. [Camping Web Project](https://camping-web-project.netlify.app/)
-
+6. [InteractiveArt Landing](https://sprightly-begonia-c05af0.netlify.app/)
 
 
 
