@@ -50,7 +50,7 @@
 
 click on each link to see the project online 
 
-1. [Kasuka Project](https://kasuka-project.liara.run/)
+1. [Kasuka Project](https://sensational-frangipane-e2d9cb.netlify.app/)
 2. [Coffe Shop Project](https://subtle-nougat-b8ddb2.netlify.app/)
 3. [Delivery Food Project](https://delivery-food-project.netlify.app/)
 4. [Portfolio Landing Project](https://porfolio-landing-project.netlify.app/)
