@@ -46,17 +46,53 @@
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 -->
 
-# My Projects link :
+<h2>🚀 My Projects by Stack</h2>
 
-click on each link to see the project online 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript" />
+      </th>
+      <th style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React" />
+      </th>
+      <th style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" title="Next.js" />
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <!-- HTML/CSS/JS Projects -->
+      <td valign="top">
+        <ul>
+          <li><a href="https://subtle-nougat-b8ddb2.netlify.app/">☕ Coffee Shop</a></li>
+          <li><a href="https://delivery-food-project.netlify.app/">🍔 Delivery Food</a></li>
+          <li><a href="https://porfolio-landing-project.netlify.app/">💼 Portfolio Landing</a></li>
+          <li><a href="https://camping-web-project.netlify.app/">🏕️ Camping Web</a></li>
+          <li><a href="https://sprightly-begonia-c05af0.netlify.app/">🖼️ InteractiveArt</a></li>
+        </ul>
+      </td>
+      <!-- React Projects -->
+      <td valign="top">
+        <ul>
+          <li><a href="https://sensational-frangipane-e2d9cb.netlify.app/">🎨 Kasuka Landing</a></li>
+          <li><a href="https://split-n-bill.netlify.app/">💸 Eat-n-Split</a></li>
+        </ul>
+      </td>
+      <!-- Next.js Projects -->
+      <td valign="top">
+        <ul>
+          <li><em>⏳ Coming Soon...</em></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-1. [Kasuka Project](https://sensational-frangipane-e2d9cb.netlify.app/)
-2. [Coffe Shop Project](https://subtle-nougat-b8ddb2.netlify.app/)
-3. [Delivery Food Project](https://delivery-food-project.netlify.app/)
-4. [Portfolio Landing Project](https://porfolio-landing-project.netlify.app/)
-5. [Camping Web Project](https://camping-web-project.netlify.app/)
-6. [InteractiveArt Landing](https://sprightly-begonia-c05af0.netlify.app/)
-7. [Eat-n-Split](https://split-n-bill.netlify.app/)
 
 
 
