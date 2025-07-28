@@ -56,6 +56,7 @@ click on each link to see the project online
 4. [Portfolio Landing Project](https://porfolio-landing-project.netlify.app/)
 5. [Camping Web Project](https://camping-web-project.netlify.app/)
 6. [InteractiveArt Landing](https://sprightly-begonia-c05af0.netlify.app/)
+7. [Eat-n-Split](https://split-n-bill.netlify.app/)
 
 
 
