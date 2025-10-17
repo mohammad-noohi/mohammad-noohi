@@ -13,15 +13,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-<!-- 
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
--->
-
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
 # Contact Me:
@@ -38,6 +30,10 @@
     <img src="https://github.com/user-attachments/assets/20943511-bccf-46ef-ae7d-c899503dac01" alt="telegram" width="48px"/>
 </a>
 
+<a href="https://www.linkedin.com/in/mohammad-noohi-418400289/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
 # My Github stat:
 
 <a href="">
@@ -45,10 +41,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-noohi&theme=transparent"/>
 </a>
 
-<!-- 
-![Material](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
--->
 
 <h2>🚀 My Projects by Stack</h2>
 
@@ -78,11 +70,13 @@
           <li><a href="https://porfolio-landing-project.netlify.app/">💼 Portfolio Landing</a></li>
           <li><a href="https://camping-web-project.netlify.app/">🏕️ Camping Web</a></li>
           <li><a href="https://sprightly-begonia-c05af0.netlify.app/">🖼️ InteractiveArt</a></li>
+          <li><a href="https://noohi-todo-app.netlify.app/">📃 todo app</a></li>
         </ul>
       </td>
       <!-- React Projects -->
       <td valign="top">
         <ul>
+          <li><a href="https://github.com/mohammad-noohi/novan-shop">🛒 novan shop ( E-commerce & Dashboard )</a></li>
           <li><a href="https://sensational-frangipane-e2d9cb.netlify.app/">🎨 Kasuka Landing</a></li>
           <li><a href="https://split-n-bill.netlify.app/">💸 Eat-n-Split</a></li>
         </ul>
