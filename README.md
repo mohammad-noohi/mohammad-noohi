@@ -1,16 +1,10 @@
 ![banner](https://github.com/user-attachments/assets/54f84124-19e2-43e8-97f0-c5068622bdd3)
 
-<h1 align="center">Hey there 👋, I'm Mohammad Noohi</h1>
+<h1 >About me</h1>
 
-<p align="center">
-  <b>Front-End Developer | React Enthusiast </b>
-</p>
-
-<p align="center">
-  <i>
+<p >
     A radiology graduate from Isfahan, who found his true passion in building beautiful and interactive web interfaces.  
     I love crafting clean UI, exploring modern JavaScript frameworks, and pushing myself toward becoming a strong front-end engineer & creative web designer.
-  </i>
 </p>
 
 
@@ -99,7 +93,7 @@
 
 
 
-## 🌱 Currently Learning
+## 🎯 Currently Learning
 
 - React Query  
 - Axios  
@@ -111,7 +105,7 @@
 
 ## 🤝 Contact Me
 
-<p align="center">
+<p >
   <a href="https://instagram.com/noohi1998" target="_blank">
     <img src="https://github.com/user-attachments/assets/e7ab06ab-7f38-4e97-93c3-a6b0198fb138" alt="Instagram" width="40" height="40"/>
   </a>
@@ -131,7 +125,7 @@
 
 
 
-<p align="center">
+<p >
   <i>💬 Feel free to reach out if you’d like to collaborate or just talk about front-end development.</i>
 </p>
 
