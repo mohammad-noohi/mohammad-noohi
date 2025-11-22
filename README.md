@@ -11,14 +11,20 @@
 
 ## 🧠 Frontend Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 
 ## 🛠️ Tools & Utilities
 
-[![Tools](https://skillicons.dev/icons?i=git,github,npm,bootstrap,tailwind,supabase,postman,vscode)](https://skillicons.dev)
-<img width="48" src="https://github.com/user-attachments/assets/cf1f6561-d499-4615-bce9-272b024f9f28"/>
+[![Tools](https://skillicons.dev/icons?i=git,github,npm,supabase,postman,vscode)](https://skillicons.dev)
 
+
+## 📚 Libraries
+[![Tools](https://skillicons.dev/icons?i=bootstrap,tailwind,redux)](https://skillicons.dev)
+<img title="react hook form" width="48" src="https://github.com/user-attachments/assets/cf1f6561-d499-4615-bce9-272b024f9f28"/>
+<img title="react query" width="48" src="https://github.com/user-attachments/assets/a5d21797-d871-4ca7-8e69-6bd023318a60"/>
+<img title="i18next" width="48" src="https://github.com/user-attachments/assets/3dabf890-1cd4-4d86-b266-4c656a28a29a"/>
+<img title="axios" width="48" src="https://github.com/user-attachments/assets/33a198f4-ec89-486c-bfc1-4bcb18d371ae"/>
 
 
 
