@@ -17,6 +17,7 @@
 ## 🛠️ Tools & Utilities
 
 [![Tools](https://skillicons.dev/icons?i=git,github,npm,bootstrap,tailwind,supabase,postman,vscode)](https://skillicons.dev)
+<img width="48" src="https://github.com/user-attachments/assets/cf1f6561-d499-4615-bce9-272b024f9f28"/>
 
 
 
