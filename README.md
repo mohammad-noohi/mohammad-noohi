@@ -86,21 +86,3 @@
 
 
 
-## 🤝 Contact
-
-<p>
-  <a href="https://instagram.com/noohi1998" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e7ab06ab-7f38-4e97-93c3-a6b0198fb138" width="38"/>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=989304185554" target="_blank">
-    <img src="https://github.com/user-attachments/assets/b4607805-69b9-4ab3-96b0-0f03e4525f61" width="38"/>
-  </a>
-  <a href="https://t.me/noohi1998" target="_blank">
-    <img src="https://github.com/user-attachments/assets/20943511-bccf-46ef-ae7d-c899503dac01" width="38"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-noohi-418400289/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38"/>
-  </a>
-</p>
-
-<i>💬 Feel free to reach out if you’d like to collaborate or talk about front-end development.</i>
